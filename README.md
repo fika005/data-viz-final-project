@@ -1,1 +1,1 @@
-# data_viz_final_project
+# data-viz-final-project
